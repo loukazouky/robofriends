@@ -50,5 +50,4 @@ render() {
 		);
 	}
 }
-
 export default App;
